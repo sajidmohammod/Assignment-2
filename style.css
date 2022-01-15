@@ -1,0 +1,195 @@
+snap{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.cart{
+    width: 16px;
+    margin-left: 5px;
+}
+span{
+    display: flex;
+}
+
+
+h2{
+    margin-right: 1400px;
+    margin-left: 50px;
+}
+.div-1{
+    margin-left: 50px;
+    margin-right: 80px;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.sec{
+    display: flex;
+}
+.poi{
+    width: 25px;
+    
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(255, 0, 106);
+    color: cornsilk;
+}
+hr{
+    margin-left: 420px;
+    margin-right: 500px;
+    font-weight: 40%;
+    
+}
+.logo{
+    margin-left: 500px;
+}
+/*--------------------
+     logos margin
+--------------------*/  
+.al{
+    margin-right:35px ;
+}  
+.ama{
+    margin-right: 35px;
+}
+.dara{
+    margin-right: 35px;
+}
+.eba{
+    margin-right: 35px;
+}
+.rak{
+    margin-right: 35px;
+}
+.wal{
+    margin-right: 35px;
+}
+/*----------------------------
+    Making Grid Section
+-----------------------------*/    
+
+h3{
+    text-align: center;
+}
+.star{
+    width: 50px;
+}
+.sec-1{
+    display: flex;
+    margin-left: 470px;
+    margin-bottom: 30px;
+}
+.micro{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 15px;
+    box-shadow:10px 10px rgb(116, 112, 112);
+}
+.flex{
+    box-shadow:  10px 10px rgb(116, 112, 112); 
+    border-radius: 15px;
+}
+.air{
+    box-shadow: 10px 10px rgb(116, 112, 112); 
+    border-radius:15px ;
+}
+.sec-2{
+    display: flex;
+    margin-left: 470px;
+    margin-bottom: 30px;
+}
+.dr{
+    box-shadow: 10px 10px rgb(116, 112, 112); 
+    border-radius:15px ;
+}
+.lig{
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 15px;
+    box-shadow:10px 10px rgb(116, 112, 112);
+}
+.set{
+    box-shadow: 10px 10px rgb(116, 112, 112); 
+    border-radius:15px ;
+}
+.sec-3{
+    display: flex;
+    margin-left: 470px;
+    margin-bottom: 30px;
+}
+.cam{
+    box-shadow: 10px 10px rgb(116, 112, 112); 
+    border-radius:15px ;
+}
+.sin{
+    margin-right: 30px;
+    margin-left: 30px;
+    border-radius: 15px;
+    box-shadow:10px 10px rgb(116, 112, 112);
+}
+.ac{
+    box-shadow: 10px 10px rgb(116, 112, 112); 
+    border-radius:15px ;
+}
+a{
+    text-decoration: none;
+    padding-top: 40px;
+    margin-left: 1365px;
+    color: rgb(114, 18, 5);
+}
+/*----------------
+   Extra Part
+----------------*/
+.sec-4{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.ex{
+    margin-left: 90px;
+    padding-top: 30px;
+}
+#hh{
+    display: inline;
+    width: 1000px;
+}
+/*------------------
+     footer
+------------------*/
+footer{
+    background-color: rgb(43, 41, 41);
+    margin-top: 100px;
+    
+}     
+#foot{
+    color: white;
+}
+.ftt{
+    color: white;
+    text-align: center;
+}
+.ins{
+    width: 10px;
+    margin-right: 5px;
+}
+.fb{
+    width: 10px;
+    margin-right: 5px;
+}
+.twi{
+    width: 10px;
+    margin-right: 5px;
+}
+.ut{
+    width: 15px;
+}
+/*----------------------
+     For Tablet
+----------------------*/
+@media (max-width:600px) {
+    body{
+        background-color: thistle;
+    }
+    
+}
